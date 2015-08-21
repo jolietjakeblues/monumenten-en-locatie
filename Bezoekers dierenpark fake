@@ -1,0 +1,7774 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9036KL",
+        "woonplaats": "Menaam",
+        "gemeente": "Menameradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.66258937112617,
+          53.211647708792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 2,
+        "postcode": "9037JV",
+        "woonplaats": "Slappeterp",
+        "gemeente": "Menameradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6193926451329,
+          53.2139774581435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 28,
+        "postcode": "9038TA",
+        "woonplaats": "Ingelum",
+        "gemeente": "Menameradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7286743430749,
+          53.2266468295317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 95,
+        "postcode": "9041AA",
+        "woonplaats": "Berltsum",
+        "gemeente": "Menameradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64466464632422,
+          53.2432843096033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 49,
+        "postcode": "9043VL",
+        "woonplaats": "Wier",
+        "gemeente": "Menameradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.62040038182346,
+          53.2512476884542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 100,
+        "postcode": "9044LA",
+        "woonplaats": "Bitgum",
+        "gemeente": "Menameradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.67826831146823,
+          53.236519614192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 13,
+        "postcode": "9045PA",
+        "woonplaats": "Bitgummole",
+        "gemeente": "Menameradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6977413607319,
+          53.239022689512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 74,
+        "postcode": "9047HG",
+        "woonplaats": "Minnertsga",
+        "gemeente": "het Bildt",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59440262405903,
+          53.2532257969985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 86,
+        "postcode": "9051AA",
+        "woonplaats": "Stiens",
+        "gemeente": "Leeuwarderadeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75631327649456,
+          53.26529855627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 62,
+        "postcode": "9053LM",
+        "woonplaats": "Feinsum",
+        "gemeente": "Leeuwarderadeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.767057407851,
+          53.2763092983752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 83,
+        "postcode": "9054KA",
+        "woonplaats": "Hijum",
+        "gemeente": "Leeuwarderadeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.76755408590522,
+          53.2930998256665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 73,
+        "postcode": "9055LN",
+        "woonplaats": "Britsum",
+        "gemeente": "Leeuwarderadeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79045521534981,
+          53.2532128958539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9056LK",
+        "woonplaats": "Koarnjum",
+        "gemeente": "Leeuwarderadeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.78661115023946,
+          53.2430691695537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 9,
+        "postcode": "9057LA",
+        "woonplaats": "Jelsum",
+        "gemeente": "Leeuwarderadeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80826682078233,
+          53.2246065126344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 57,
+        "postcode": "9061AA",
+        "woonplaats": "Gytsjerk",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89752793364878,
+          53.234915887623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 40,
+        "postcode": "9062EA",
+        "woonplaats": "Oentsjerk",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89646753078272,
+          53.2478686817385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 69,
+        "postcode": "9063DW",
+        "woonplaats": "M�nein",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93245608335293,
+          53.2481868414264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 29,
+        "postcode": "9064DB",
+        "woonplaats": "Aldtsjerk",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86458543715457,
+          53.2733928771649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 51,
+        "postcode": "9067DG",
+        "woonplaats": "Readtsjerk",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.89826588333908,
+          53.2752883532651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9071XA",
+        "woonplaats": "Alde Leie",
+        "gemeente": "Leeuwarderadeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.72574927161625,
+          53.2822564639344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9072AA",
+        "woonplaats": "Nij Altoenae",
+        "gemeente": "het Bildt",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65374422397553,
+          53.2944118924171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 97,
+        "postcode": "9073GA",
+        "woonplaats": "Marrum",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80292067793842,
+          53.3262296482545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 70,
+        "postcode": "9074AA",
+        "woonplaats": "Hallum",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7934964347011,
+          53.3173151171471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 43,
+        "postcode": "9075NH",
+        "woonplaats": "Westhoek",
+        "gemeente": "het Bildt",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59669631315942,
+          53.2856630287535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 98,
+        "postcode": "9076AA",
+        "woonplaats": "St.-Annaparochie",
+        "gemeente": "het Bildt",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.65669062516093,
+          53.2767139856885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 8,
+        "postcode": "9077PK",
+        "woonplaats": "Vrouwenparochie",
+        "gemeente": "het Bildt",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.68898635690264,
+          53.2624214161523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 49,
+        "postcode": "9078PM",
+        "woonplaats": "Oudebildtzijl",
+        "gemeente": "het Bildt",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7254010618626,
+          53.2896312269444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 97,
+        "postcode": "9079KA",
+        "woonplaats": "St.-Jacobiparochie",
+        "gemeente": "het Bildt",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.60294326292278,
+          53.2759904564565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 16,
+        "postcode": "9081AD",
+        "woonplaats": "Lekkum",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8188035407648,
+          53.2251429759434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 56,
+        "postcode": "9082AW",
+        "woonplaats": "Miedum",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83903772865859,
+          53.2352915409259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9083AA",
+        "woonplaats": "Snakkerburen",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80818982740204,
+          53.2222962985773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 91,
+        "postcode": "9084AA",
+        "woonplaats": "Goutum",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79589025129809,
+          53.1819212040256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 24,
+        "postcode": "9085BZ",
+        "woonplaats": "Teerns",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83266691456111,
+          53.1807489427119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 88,
+        "postcode": "9086CA",
+        "woonplaats": "Hempens",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83617419842061,
+          53.1791982058641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9087CC",
+        "woonplaats": "Swichum",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.82060273462053,
+          53.1537088647129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 74,
+        "postcode": "9088AA",
+        "woonplaats": "Wirdum",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.80118422274457,
+          53.1489611090891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 13,
+        "postcode": "9089BA",
+        "woonplaats": "Wytgaard",
+        "gemeente": "Leeuwarden",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.78529846001874,
+          53.1411163774402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9091BA",
+        "woonplaats": "Wyns",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.83329369176965,
+          53.2436272948845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 57,
+        "postcode": "9101AA",
+        "woonplaats": "Dokkum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00018199927817,
+          53.3292780538583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 88,
+        "postcode": "9104AA",
+        "woonplaats": "Damw�ld",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.02069891076502,
+          53.3036706964299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 70,
+        "postcode": "9104AE",
+        "woonplaats": "W�ltersw�ld",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.02055404115767,
+          53.2771012291698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 7,
+        "postcode": "9105AM",
+        "woonplaats": "Rinsumageast",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90242752941156,
+          53.2831740251671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 14,
+        "postcode": "9106GA",
+        "woonplaats": "Sibrandah�s",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93775853430741,
+          53.3111227832622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 41,
+        "postcode": "9107GD",
+        "woonplaats": "Jannum",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90008502089454,
+          53.3109036332271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 63,
+        "postcode": "9108AJ",
+        "woonplaats": "Broeksterw�ld",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0046519110765,
+          53.2755394203345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 69,
+        "postcode": "9109AH",
+        "woonplaats": "De Falom",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0100104388253,
+          53.2642460020189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9111GJ",
+        "woonplaats": "Burdaard",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87566160126428,
+          53.3047691780538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 5,
+        "postcode": "9114AA",
+        "woonplaats": "Driezum",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04400191598434,
+          53.3149851045589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 97,
+        "postcode": "9121CA",
+        "woonplaats": "Aalsum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99371746847332,
+          53.3394364776107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 7,
+        "postcode": "9122CM",
+        "woonplaats": "Wetsens",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03037843633489,
+          53.348399773638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 75,
+        "postcode": "9123JA",
+        "woonplaats": "Metslawier",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06771753894781,
+          53.3631845755472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 96,
+        "postcode": "9124EP",
+        "woonplaats": "Jouswier",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08143940428939,
+          53.3452221619985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 96,
+        "postcode": "9125EA",
+        "woonplaats": "Oostrum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06033576952528,
+          53.3307894723011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9131EA",
+        "woonplaats": "Ee",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0801685904139,
+          53.339588918371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 55,
+        "postcode": "9132EA",
+        "woonplaats": "Engwierum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14084456955293,
+          53.3218922284949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 69,
+        "postcode": "9133CA",
+        "woonplaats": "Anjum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15976498601586,
+          53.3811123346592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9134DA",
+        "woonplaats": "Lioessens",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09286515957965,
+          53.3840925238117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 94,
+        "postcode": "9135DA",
+        "woonplaats": "Morra",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08886197790532,
+          53.3690540282112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 78,
+        "postcode": "9136DD",
+        "woonplaats": "Paesens",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.10700415707486,
+          53.3961558360805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 10,
+        "postcode": "9137CD",
+        "woonplaats": "Oosternijkerk",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03595583483292,
+          53.3773869244915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 67,
+        "postcode": "9138CA",
+        "woonplaats": "Niawier",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03406997758194,
+          53.364123234858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 0,
+        "postcode": "9141CA",
+        "woonplaats": "Wierum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01010747663155,
+          53.3929394901212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 73,
+        "postcode": "9142DL",
+        "woonplaats": "Moddergat",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08233736824741,
+          53.402095961759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 17,
+        "postcode": "9143DM",
+        "woonplaats": "Nes",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06248903421595,
+          53.3947514461386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 37,
+        "postcode": "9144CK",
+        "woonplaats": "Hantumhuizen",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.98026132550926,
+          53.3620540673121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 55,
+        "postcode": "9145AB",
+        "woonplaats": "Ternaard",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95980317418411,
+          53.386724128118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 46,
+        "postcode": "9146CA",
+        "woonplaats": "Hantumeruitburen",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01141532004854,
+          53.346996940339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 10,
+        "postcode": "9147BA",
+        "woonplaats": "Hantum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.96645683312411,
+          53.3625212273019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 13,
+        "postcode": "9148BB",
+        "woonplaats": "Hiaure",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97586569376918,
+          53.3477014650542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 81,
+        "postcode": "9151AB",
+        "woonplaats": "Holwerd",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92256263036448,
+          53.3675102648003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9152AA",
+        "woonplaats": "Waaxens",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92263951881378,
+          53.3574235589141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 79,
+        "postcode": "9153AX",
+        "woonplaats": "Brantgum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.94173662291386,
+          53.3584120886559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 2,
+        "postcode": "9154AS",
+        "woonplaats": "Foudgum",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9607052352169,
+          53.34437985804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 20,
+        "postcode": "9155AK",
+        "woonplaats": "Raard",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95052998848772,
+          53.3287318282608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 81,
+        "postcode": "9156AA",
+        "woonplaats": "Bornwird",
+        "gemeente": "Dongeradeel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.96542290280526,
+          53.3324115810169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 6,
+        "postcode": "9161AA",
+        "woonplaats": "Hollum",
+        "gemeente": "Ameland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.64246720316583,
+          53.4380226332781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 74,
+        "postcode": "9162EA",
+        "woonplaats": "Ballum",
+        "gemeente": "Ameland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.68754265347447,
+          53.4414946128137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 87,
+        "postcode": "9164JA",
+        "woonplaats": "Buren",
+        "gemeente": "Ameland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.79803161612996,
+          53.448149627601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 26,
+        "postcode": "9166LA",
+        "woonplaats": "Schiermonnikoog",
+        "gemeente": "Schiermonnikoog",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16500936982933,
+          53.4800101343883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9171AL",
+        "woonplaats": "Blije",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86028257053358,
+          53.359352361435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 72,
+        "postcode": "9172AN",
+        "woonplaats": "Ferwert",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84107872977243,
+          53.352989534814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 40,
+        "postcode": "9173GA",
+        "woonplaats": "Hegebeintum",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.86385594397537,
+          53.332282120143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 91,
+        "postcode": "9174GA",
+        "woonplaats": "Ginnum",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87613995970516,
+          53.3311168387094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 21,
+        "postcode": "9175GB",
+        "woonplaats": "Reitsum",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8955335388974,
+          53.3298027985686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 44,
+        "postcode": "9176GE",
+        "woonplaats": "Lichtaard",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91162995267282,
+          53.3257234768936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 91,
+        "postcode": "9177GA",
+        "woonplaats": "Jislum",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.87862579072837,
+          53.3130870345753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 95,
+        "postcode": "9178GC",
+        "woonplaats": "W�nswert",
+        "gemeente": "Ferwerderadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.84539455212988,
+          53.3076618761551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 15,
+        "postcode": "9201AA",
+        "woonplaats": "Drachten",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08081714430943,
+          53.1142887636949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9207HA",
+        "woonplaats": "Drachten-Azeven",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.13724242832835,
+          53.0930838218671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9211RD",
+        "woonplaats": "Kortehemmen",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06241165617767,
+          53.0858989191398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 97,
+        "postcode": "9212PA",
+        "woonplaats": "Boornbergum",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03661387899288,
+          53.0856735724319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 67,
+        "postcode": "9213RC",
+        "woonplaats": "De Wilgen",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03739635139174,
+          53.0980809557817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 86,
+        "postcode": "9214VP",
+        "woonplaats": "Smalle Ee",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01761252582491,
+          53.1033646919161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9215MA",
+        "woonplaats": "De Veenhoop",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97042753117733,
+          53.083745452764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 59,
+        "postcode": "9216VA",
+        "woonplaats": "Oudega",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99943127070471,
+          53.1257224711219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 58,
+        "postcode": "9217RL",
+        "woonplaats": "Nijega",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0246576754103,
+          53.1413688135748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 41,
+        "postcode": "9218PA",
+        "woonplaats": "Opeinde",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07204077228364,
+          53.133777264531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 50,
+        "postcode": "9219VH",
+        "woonplaats": "De Tike",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01622987585444,
+          53.1545424857627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 98,
+        "postcode": "9221LT",
+        "woonplaats": "Rottevalle",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11545608049153,
+          53.1467421218175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 87,
+        "postcode": "9222LA",
+        "woonplaats": "Drachtstercompagnie",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16112737829641,
+          53.1221979043683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 77,
+        "postcode": "9223KZ",
+        "woonplaats": "Houtigehage",
+        "gemeente": "Smallingerland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14769397495754,
+          53.1575275621144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 100,
+        "postcode": "9231AA",
+        "woonplaats": "Surhuisterveen",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15443170800063,
+          53.177537563795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 57,
+        "postcode": "9233KA",
+        "woonplaats": "Boelenslaan",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.12010893384286,
+          53.1687574658762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 78,
+        "postcode": "9241EA",
+        "woonplaats": "Wijnjewoude",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.20660457551737,
+          53.0573191300444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 82,
+        "postcode": "9243JA",
+        "woonplaats": "Bakkeveen",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.25394502532973,
+          53.0839972045181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 50,
+        "postcode": "9244AA",
+        "woonplaats": "Beetsterzwaag",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07853163454694,
+          53.0680925776749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9245HA",
+        "woonplaats": "Nij Beets",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00014325117686,
+          53.0710428079843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 88,
+        "postcode": "9246TL",
+        "woonplaats": "Olterterp",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09602648832237,
+          53.0639635730917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 24,
+        "postcode": "9247AA",
+        "woonplaats": "Ureterp",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.16590545319324,
+          53.098270341069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 14,
+        "postcode": "9248KS",
+        "woonplaats": "Siegerswoude",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.24420888667878,
+          53.1003685346267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 8,
+        "postcode": "9249MA",
+        "woonplaats": "Frieschepalen",
+        "gemeente": "Opsterland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.20528460425629,
+          53.110642491471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 51,
+        "postcode": "9251AA",
+        "woonplaats": "Burgum",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.98850098065062,
+          53.1965386832331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 4,
+        "postcode": "9254AA",
+        "woonplaats": "Hurdegaryp",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93905741404866,
+          53.2172818734341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 86,
+        "postcode": "9255JA",
+        "woonplaats": "Tytsjerk",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.90952213848146,
+          53.2174051055634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 20,
+        "postcode": "9256HE",
+        "woonplaats": "Ryptsjerk",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.91163346139136,
+          53.2236139993721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 19,
+        "postcode": "9257DP",
+        "woonplaats": "Noardburgum",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.00995369942773,
+          53.2232248703348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 3,
+        "postcode": "9258CA",
+        "woonplaats": "Jistrum",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07428368450648,
+          53.2048481650837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 81,
+        "postcode": "9261VA",
+        "woonplaats": "Eastermar",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.05817537975866,
+          53.1756183684683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 15,
+        "postcode": "9262MA",
+        "woonplaats": "Sumar",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.99805446277468,
+          53.1747715779977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 34,
+        "postcode": "9263AA",
+        "woonplaats": "Garyp",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97933675040362,
+          53.1446727793214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 2,
+        "postcode": "9264TA",
+        "woonplaats": "Earnew�ld",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.93445283434552,
+          53.1432686912948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 63,
+        "postcode": "9265LB",
+        "woonplaats": "Suw�ld",
+        "gemeente": "Tytsjerksteradiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.92760416064453,
+          53.1791444885888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 0,
+        "postcode": "9269MA",
+        "woonplaats": "Feanw�lden",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97977871527917,
+          53.2371942474618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 95,
+        "postcode": "9271AA",
+        "woonplaats": "De Westereen",
+        "gemeente": "Dantumadiel",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.03095001646237,
+          53.2555541459467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 68,
+        "postcode": "9281HA",
+        "woonplaats": "Harkema",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1335044909567,
+          53.1813573153913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 75,
+        "postcode": "9283TA",
+        "woonplaats": "Surhuizum",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.17557900999752,
+          53.20778149269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 30,
+        "postcode": "9284KD",
+        "woonplaats": "Augustinusga",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15636349893738,
+          53.2143243366873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 92,
+        "postcode": "9285JA",
+        "woonplaats": "Buitenpost",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.15350579308634,
+          53.2431243365588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 31,
+        "postcode": "9286EA",
+        "woonplaats": "Twijzel",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.09288684942052,
+          53.2339515174834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 27,
+        "postcode": "9287HA",
+        "woonplaats": "Twijzelerheide",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04331132294401,
+          53.242851721552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9288AA",
+        "woonplaats": "Kootstertille",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0943769883875,
+          53.2126659195569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 74,
+        "postcode": "9289HA",
+        "woonplaats": "Drogeham",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.114142852127,
+          53.2023233639169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9291AA",
+        "woonplaats": "Kollum",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.14955788966888,
+          53.2860178378531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9292LZ",
+        "woonplaats": "Augsbuurt",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18500231800339,
+          53.2801023875636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9293LJ",
+        "woonplaats": "Kollumerpomp",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.18840155694612,
+          53.305885363691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 0,
+        "postcode": "9294JA",
+        "woonplaats": "Oudwoude",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11289272983254,
+          53.2817532733779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 4,
+        "postcode": "9295KA",
+        "woonplaats": "Westergeest",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0892525535013,
+          53.2828312470401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 15,
+        "postcode": "9296MA",
+        "woonplaats": "Triemen",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.10148586316519,
+          53.2782588324947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 90,
+        "postcode": "9297WN",
+        "woonplaats": "Veenklooster",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11276517045469,
+          53.2657605861334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 61,
+        "postcode": "9298JA",
+        "woonplaats": "Kollumerzwaag",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.10025387482221,
+          53.2635463314052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9299HA",
+        "woonplaats": "Zwagerbosch",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.04417361851925,
+          53.2436741413499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 65,
+        "postcode": "9301AA",
+        "woonplaats": "Roden",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43359296703496,
+          53.1369085416097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 58,
+        "postcode": "9304TG",
+        "woonplaats": "Lieveren",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.48158088318079,
+          53.117018772145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 25,
+        "postcode": "9305TA",
+        "woonplaats": "Roderesch",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.42053907664318,
+          53.1172104274472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9306TA",
+        "woonplaats": "Alteveer",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4302746744953,
+          53.1183212516891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 90,
+        "postcode": "9307PA",
+        "woonplaats": "Steenbergen",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.40067663239058,
+          53.1052124352535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 2,
+        "postcode": "9311PA",
+        "woonplaats": "Nieuw-Roden",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4011800290347,
+          53.1312149804758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 87,
+        "postcode": "9312PA",
+        "woonplaats": "Nietap",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39474210956295,
+          53.162972986962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 7,
+        "postcode": "9313TE",
+        "woonplaats": "Leutingewolde",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43568253792079,
+          53.1547859811193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 86,
+        "postcode": "9314TA",
+        "woonplaats": "Foxwolde",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.45766614432104,
+          53.1484359572082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 37,
+        "postcode": "9315PA",
+        "woonplaats": "Roderwolde",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46686286106426,
+          53.166424084535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 95,
+        "postcode": "9321AA",
+        "woonplaats": "Peize",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.49131869847901,
+          53.1486518708842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 15,
+        "postcode": "9331AA",
+        "woonplaats": "Norg",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4613145,
+          53.0675470999821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 12,
+        "postcode": "9333PA",
+        "woonplaats": "Langelo",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44583230943705,
+          53.0892840137788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 3,
+        "postcode": "9334TA",
+        "woonplaats": "Peest",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.48673685314269,
+          53.0605713428072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 37,
+        "postcode": "9335TA",
+        "woonplaats": "Zuidvelde",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.45652693200242,
+          53.0501778761895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 69,
+        "postcode": "9336TA",
+        "woonplaats": "Huis ter Heide",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.48106168094576,
+          53.0259524043326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 81,
+        "postcode": "9337PA",
+        "woonplaats": "Westervelde",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44538554041301,
+          53.053817684632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 61,
+        "postcode": "9341AA",
+        "woonplaats": "Veenhuizen",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39175104508215,
+          53.0415332059721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 48,
+        "postcode": "9342PA",
+        "woonplaats": "Een",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39250903955458,
+          53.0723726073918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9343TA",
+        "woonplaats": "Een-West",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33473023241559,
+          53.0800482665136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9351AA",
+        "woonplaats": "Leek",
+        "gemeente": "Leek",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39284043569948,
+          53.1628677564037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 92,
+        "postcode": "9354AA",
+        "woonplaats": "Zevenhuizen",
+        "gemeente": "Leek",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.34807355039629,
+          53.1236894925615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 1,
+        "postcode": "9355TA",
+        "woonplaats": "Midwolde",
+        "gemeente": "Leek",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.38161416929795,
+          53.1736031060041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 58,
+        "postcode": "9356AA",
+        "woonplaats": "Tolbert",
+        "gemeente": "Leek",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3688525631993,
+          53.1730279632681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 45,
+        "postcode": "9359TA",
+        "woonplaats": "Boerakker",
+        "gemeente": "Leek",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33091683879765,
+          53.2046365074235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 33,
+        "postcode": "9363AA",
+        "woonplaats": "Marum",
+        "gemeente": "Marum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.27480646334931,
+          53.1480246234787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 98,
+        "postcode": "9363RM",
+        "woonplaats": "De Wilp",
+        "gemeente": "Marum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26176971629965,
+          53.1191515482245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 98,
+        "postcode": "9364PA",
+        "woonplaats": "Nuis",
+        "gemeente": "Marum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.28845832985059,
+          53.1497109999902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 92,
+        "postcode": "9365PA",
+        "woonplaats": "Niebert",
+        "gemeente": "Marum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.31184651719635,
+          53.1529576226635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 95,
+        "postcode": "9366TA",
+        "woonplaats": "Jonkersvaart",
+        "gemeente": "Marum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.28566847563681,
+          53.1269068343272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 64,
+        "postcode": "9401AA",
+        "woonplaats": "Assen",
+        "gemeente": "Assen",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57070800249695,
+          52.9965293287461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9409TG",
+        "woonplaats": "Loon",
+        "gemeente": "Assen",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60982011098652,
+          53.0112339734153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 84,
+        "postcode": "9411AA",
+        "woonplaats": "Beilen",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51110285585854,
+          52.860042166622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 50,
+        "postcode": "9414AA",
+        "woonplaats": "Hooghalen",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.54228145777488,
+          52.919410669015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 45,
+        "postcode": "9415PA",
+        "woonplaats": "Hijken",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.50070977245568,
+          52.8944618515487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 5,
+        "postcode": "9416TA",
+        "woonplaats": "Oranje",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44944369048,
+          52.9067921235132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 52,
+        "postcode": "9417PG",
+        "woonplaats": "Spier",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.48026318015918,
+          52.8025134052252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 54,
+        "postcode": "9418PA",
+        "woonplaats": "Wijster",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5158376089189,
+          52.8179906373431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 27,
+        "postcode": "9419TE",
+        "woonplaats": "Drijber",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.54803695228009,
+          52.7869801968483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 72,
+        "postcode": "9421MA",
+        "woonplaats": "Bovensmilde",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.48921176941458,
+          52.9770068828749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 52,
+        "postcode": "9422AA",
+        "woonplaats": "Smilde",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44845653452161,
+          52.9514604024937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 79,
+        "postcode": "9423NA",
+        "woonplaats": "Hoogersmilde",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39404351150668,
+          52.9055197877902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 43,
+        "postcode": "9431AA",
+        "woonplaats": "Westerbork",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60913951350712,
+          52.8509744739166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 91,
+        "postcode": "9432TR",
+        "woonplaats": "Zuidveld",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62662335845974,
+          52.8692782115843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 90,
+        "postcode": "9433PA",
+        "woonplaats": "Zwiggelte",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58795264315291,
+          52.8651261003726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 10,
+        "postcode": "9434TA",
+        "woonplaats": "Eursinge",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60426573377967,
+          52.840847499854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 13,
+        "postcode": "9435TC",
+        "woonplaats": "Bruntinge",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.597236989767,
+          52.8260717364989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 17,
+        "postcode": "9436PE",
+        "woonplaats": "Mantinge",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61619924384616,
+          52.8033549761535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 44,
+        "postcode": "9437TA",
+        "woonplaats": "Balinge",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62848217737393,
+          52.8128982977383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9438TA",
+        "woonplaats": "Garminge",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6236597383484,
+          52.8207136652574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 90,
+        "postcode": "9439PA",
+        "woonplaats": "Witteveen",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6554003123284,
+          52.815823487277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 18,
+        "postcode": "9441PC",
+        "woonplaats": "Orvelte",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65697903673164,
+          52.8435719883185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 86,
+        "postcode": "9442PA",
+        "woonplaats": "Elp",
+        "gemeente": "Midden-Drenthe",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64419689900436,
+          52.8817756087874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9443PA",
+        "woonplaats": "Schoonloo",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.69901937053138,
+          52.9055505250163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 64,
+        "postcode": "9444PA",
+        "woonplaats": "Grolloo",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6727827662379,
+          52.9373277012587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9445XE",
+        "woonplaats": "Vredenheim",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66113890752839,
+          52.9450916740398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9446PA",
+        "woonplaats": "Amen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61360254175743,
+          52.9440164493254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 8,
+        "postcode": "9447TS",
+        "woonplaats": "Papenvoort",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70356968076454,
+          52.9504374147489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 53,
+        "postcode": "9448TA",
+        "woonplaats": "Marwijksoord",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64959276706586,
+          52.9656152999398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 3,
+        "postcode": "9449PA",
+        "woonplaats": "Nooitgedacht",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6628402101357,
+          52.9757649725686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9451AA",
+        "woonplaats": "Rolde",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64276383309124,
+          52.9884517682471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 47,
+        "postcode": "9452VA",
+        "woonplaats": "Nijlande",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6233321073888,
+          52.9770429296758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 60,
+        "postcode": "9453VC",
+        "woonplaats": "Eldersloo",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61523723757265,
+          52.9661261163712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 72,
+        "postcode": "9454PD",
+        "woonplaats": "Ekehaar",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60091314995495,
+          52.9531382303244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 74,
+        "postcode": "9455TD",
+        "woonplaats": "Geelbroek",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57323278781442,
+          52.9508858883351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 52,
+        "postcode": "9456TC",
+        "woonplaats": "Eleveld",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58527974264263,
+          52.9566252935155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 4,
+        "postcode": "9457TA",
+        "woonplaats": "Deurze",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.61112441556191,
+          52.9882137374675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 29,
+        "postcode": "9458TA",
+        "woonplaats": "Balloo",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63480023894997,
+          52.9995084250336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9459TA",
+        "woonplaats": "Ballo�rveld",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63391155508054,
+          53.0230817961828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9461AA",
+        "woonplaats": "Gieten",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76444041559926,
+          53.0057797887957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 46,
+        "postcode": "9462PA",
+        "woonplaats": "Gasselte",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79404817726488,
+          52.9773570663686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 9,
+        "postcode": "9463MA",
+        "woonplaats": "Eext",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73957592459896,
+          53.0207742957303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9464TD",
+        "woonplaats": "Eexterzandvoort",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78814665110026,
+          53.0299394246986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 90,
+        "postcode": "9465TJ",
+        "woonplaats": "Anderen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.68118658971328,
+          53.0044346166975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 76,
+        "postcode": "9466PA",
+        "woonplaats": "Gasteren",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66496662311136,
+          53.0370524688634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9467PA",
+        "woonplaats": "Anloo",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70191833514187,
+          53.0431407533968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 50,
+        "postcode": "9468AA",
+        "woonplaats": "Annen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70718513274655,
+          53.067779221005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9469PE",
+        "woonplaats": "Schipborg",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66921998017617,
+          53.0745906206765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 20,
+        "postcode": "9471AA",
+        "woonplaats": "Zuidlaren",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.68603579088626,
+          53.0932058709485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 24,
+        "postcode": "9473TA",
+        "woonplaats": "De Groeve",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7087776601328,
+          53.1088231582372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 36,
+        "postcode": "9474PA",
+        "woonplaats": "Zuidlaarderveen",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74644802538184,
+          53.1094710109842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 5,
+        "postcode": "9475PA",
+        "woonplaats": "Midlaren",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.68126952328911,
+          53.1088629158633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 71,
+        "postcode": "9479PA",
+        "woonplaats": "Noordlaren",
+        "gemeente": "Haren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66635718438222,
+          53.1236383821348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 33,
+        "postcode": "9481AA",
+        "woonplaats": "Vries",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.58134098115839,
+          53.0782776854352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 26,
+        "postcode": "9482PA",
+        "woonplaats": "Tynaarlo",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60674290358731,
+          53.0799384631973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9483PA",
+        "woonplaats": "Zeegse",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64185888917357,
+          53.069668122961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9484TA",
+        "woonplaats": "Oudemolen",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64039613136139,
+          53.054657276953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 24,
+        "postcode": "9485TA",
+        "woonplaats": "Taarlo",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62686320072091,
+          53.0346404644049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 52,
+        "postcode": "9486TD",
+        "woonplaats": "Rhee",
+        "gemeente": "Assen",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57223685758365,
+          53.0368027484554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 51,
+        "postcode": "9487TA",
+        "woonplaats": "Ter Aard",
+        "gemeente": "Assen",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53892533602837,
+          53.0344388947478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9488TA",
+        "woonplaats": "Zeijerveld",
+        "gemeente": "Assen",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53075066900336,
+          53.0370537443102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 29,
+        "postcode": "9489TH",
+        "woonplaats": "Zeijerveen",
+        "gemeente": "Assen",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.52043583496231,
+          53.0194208254867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 27,
+        "postcode": "9491AA",
+        "woonplaats": "Zeijen",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.54714725491447,
+          53.0480845214754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9492TA",
+        "woonplaats": "Ubbena",
+        "gemeente": "Assen",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57700441641401,
+          53.057371351953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 83,
+        "postcode": "9493AA",
+        "woonplaats": "De Punt",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63093597115126,
+          53.1055767847936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 68,
+        "postcode": "9494PA",
+        "woonplaats": "Yde",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59653826136948,
+          53.1149787157213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 79,
+        "postcode": "9495PA",
+        "woonplaats": "Winde",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.52904361308254,
+          53.123576320237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 66,
+        "postcode": "9496PA",
+        "woonplaats": "Bunne",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5333012821559,
+          53.1174890935342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 12,
+        "postcode": "9497PA",
+        "woonplaats": "Donderen",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.55150071104391,
+          53.0931109867056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 7,
+        "postcode": "9501AA",
+        "woonplaats": "Stadskanaal",
+        "gemeente": "Stadskanaal",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9524639015773,
+          52.9923817207794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9511PA",
+        "woonplaats": "Gieterveen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84244517421231,
+          53.0055823608867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 50,
+        "postcode": "9512SB",
+        "woonplaats": "Nieuwediep",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84538591993228,
+          53.0506361947351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 78,
+        "postcode": "9514AA",
+        "woonplaats": "Gasselternijveen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8461997121052,
+          52.9864741961472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 78,
+        "postcode": "9515AT",
+        "woonplaats": "Gasselternijveenschemond",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.93516868608305,
+          52.9935337955775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 15,
+        "postcode": "9521AA",
+        "woonplaats": "Nieuw-Buinen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88500314596329,
+          52.9365649115067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 34,
+        "postcode": "9523AX",
+        "woonplaats": "Drouwenermond",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.94193578610485,
+          52.9880890610172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9524PA",
+        "woonplaats": "Buinerveen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88051478499291,
+          52.9347415258309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 12,
+        "postcode": "9525TA",
+        "woonplaats": "Drouwenerveen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84824859149449,
+          52.9707727016175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 70,
+        "postcode": "9526TA",
+        "woonplaats": "Bronnegerveen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82454382751731,
+          52.9546790141338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 88,
+        "postcode": "9527TA",
+        "woonplaats": "Bronneger",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82348499034239,
+          52.9514200173056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 78,
+        "postcode": "9528PA",
+        "woonplaats": "Buinen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82412200888765,
+          52.9307815793089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 69,
+        "postcode": "9531AA",
+        "woonplaats": "Borger",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79007588535192,
+          52.9274056163854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 94,
+        "postcode": "9533PA",
+        "woonplaats": "Drouwen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79090873939093,
+          52.9511784049737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 75,
+        "postcode": "9534PA",
+        "woonplaats": "Westdorp",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76822845689283,
+          52.9056536924755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 53,
+        "postcode": "9535TA",
+        "woonplaats": "Ellertshaar",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74193565218055,
+          52.8928386825436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 33,
+        "postcode": "9536PA",
+        "woonplaats": "Ees",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8015501688664,
+          52.9111152593659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 47,
+        "postcode": "9537TA",
+        "woonplaats": "Eesergroen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78034629369456,
+          52.8907522740477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 5,
+        "postcode": "9541AA",
+        "woonplaats": "Vlagtwedde",
+        "gemeente": "Vlagtwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.10588713992693,
+          53.025130486502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 20,
+        "postcode": "9545PA",
+        "woonplaats": "Bourtange",
+        "gemeente": "Vlagtwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.18637582925209,
+          53.0101230116004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 46,
+        "postcode": "9551AA",
+        "woonplaats": "Sellingen",
+        "gemeente": "Vlagtwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.14417246396934,
+          52.9351966055251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 92,
+        "postcode": "9561AA",
+        "woonplaats": "Ter Apel",
+        "gemeente": "Vlagtwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04962406875487,
+          52.8746931518822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 10,
+        "postcode": "9563PA",
+        "woonplaats": "Ter Apelkanaal",
+        "gemeente": "Vlagtwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04790100611612,
+          52.8990670922027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9564PA",
+        "woonplaats": "Zandberg",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.02581752201237,
+          52.918777839506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9566PA",
+        "woonplaats": "Veelerveen",
+        "gemeente": "Bellingwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.12163049545574,
+          53.056927020432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 61,
+        "postcode": "9571AA",
+        "woonplaats": "2e Exlo�rmond",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.91824070325571,
+          52.9014779586341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 30,
+        "postcode": "9573PA",
+        "woonplaats": "1e Exlo�rmond",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90422772330533,
+          52.9159893601457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 47,
+        "postcode": "9574PA",
+        "woonplaats": "Exlo�rveen",
+        "gemeente": "Borger-Odoorn",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90715445440946,
+          52.9008590147308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 72,
+        "postcode": "9581AA",
+        "woonplaats": "Musselkanaal",
+        "gemeente": "Stadskanaal",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00620861664853,
+          52.9370529057231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 26,
+        "postcode": "9584AA",
+        "woonplaats": "Mussel",
+        "gemeente": "Stadskanaal",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03412506709772,
+          52.9411898799895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 35,
+        "postcode": "9585PA",
+        "woonplaats": "Vledderveen",
+        "gemeente": "Stadskanaal",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00536168358859,
+          52.9957796824547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 31,
+        "postcode": "9591AA",
+        "woonplaats": "Onstwedde",
+        "gemeente": "Stadskanaal",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03851047600678,
+          53.0325649781963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 15,
+        "postcode": "9601AA",
+        "woonplaats": "Hoogezand",
+        "gemeente": "Hoogezand-Sappemeer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75579935247017,
+          53.1680980342363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 62,
+        "postcode": "9605PA",
+        "woonplaats": "Kiel-Windeweer",
+        "gemeente": "Hoogezand-Sappemeer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7714161579418,
+          53.1228947430566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 10,
+        "postcode": "9606PA",
+        "woonplaats": "Kropswolde",
+        "gemeente": "Hoogezand-Sappemeer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72302900896591,
+          53.1608941555629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 27,
+        "postcode": "9607PA",
+        "woonplaats": "Foxhol",
+        "gemeente": "Hoogezand-Sappemeer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72363935576721,
+          53.1692606576468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 42,
+        "postcode": "9608PA",
+        "woonplaats": "Westerbroek",
+        "gemeente": "Hoogezand-Sappemeer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65212289254761,
+          53.1863421958541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9609PA",
+        "woonplaats": "Waterhuizen",
+        "gemeente": "Hoogezand-Sappemeer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64359939650717,
+          53.1850215469576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 40,
+        "postcode": "9611AA",
+        "woonplaats": "Sappemeer",
+        "gemeente": "Hoogezand-Sappemeer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7758757735698,
+          53.1641087540704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 5,
+        "postcode": "9613AA",
+        "woonplaats": "Meerstad",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64685436583539,
+          53.2216999686282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9615AA",
+        "woonplaats": "Kolham",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76464346783375,
+          53.185669053303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 82,
+        "postcode": "9616TA",
+        "woonplaats": "Scharmer",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71659332511443,
+          53.1891727753197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 35,
+        "postcode": "9617AA",
+        "woonplaats": "Harkstede",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70640601384516,
+          53.2108916583626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 70,
+        "postcode": "9617TD",
+        "woonplaats": "Lageland",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64902577717013,
+          53.2358265714227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 73,
+        "postcode": "9618PA",
+        "woonplaats": "Woudbloem",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73113788150283,
+          53.2148053028448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 54,
+        "postcode": "9619PA",
+        "woonplaats": "Froombosch",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78729502348385,
+          53.1988571660441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 68,
+        "postcode": "9621AA",
+        "woonplaats": "Slochteren",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80522253095847,
+          53.2204956086253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 49,
+        "postcode": "9624PA",
+        "woonplaats": "Luddeweer",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74608203562666,
+          53.2481801759096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 35,
+        "postcode": "9625PA",
+        "woonplaats": "Overschild",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74794796982463,
+          53.2608034903315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 33,
+        "postcode": "9626AA",
+        "woonplaats": "Schildwolde",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.80595297874184,
+          53.2210923496192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9627PA",
+        "woonplaats": "Hellum",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82652513308277,
+          53.2375212045773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 21,
+        "postcode": "9628AA",
+        "woonplaats": "Siddeburen",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86871218160383,
+          53.2486348575946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 59,
+        "postcode": "9629PA",
+        "woonplaats": "Steendam",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83701476230724,
+          53.266885918271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 60,
+        "postcode": "9631TE",
+        "woonplaats": "Borgercompagnie",
+        "gemeente": "Veendam",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81612208848601,
+          53.1215956552691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 4,
+        "postcode": "9633TA",
+        "woonplaats": "Tripscompagnie",
+        "gemeente": "Menterwolde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.82811988961535,
+          53.1536666298745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9635AA",
+        "woonplaats": "Noordbroek",
+        "gemeente": "Menterwolde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.874489491773,
+          53.1935963723494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 44,
+        "postcode": "9636AA",
+        "woonplaats": "Zuidbroek",
+        "gemeente": "Menterwolde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.862647982478,
+          53.1624053543206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 54,
+        "postcode": "9641AA",
+        "woonplaats": "Veendam",
+        "gemeente": "Veendam",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.88151510941301,
+          53.1059723522892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 64,
+        "postcode": "9648AA",
+        "woonplaats": "Wildervank",
+        "gemeente": "Veendam",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86522896460071,
+          53.086977922828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 12,
+        "postcode": "9649AA",
+        "woonplaats": "Muntendam",
+        "gemeente": "Menterwolde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.86779956140144,
+          53.1358475561558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 89,
+        "postcode": "9651AA",
+        "woonplaats": "Meeden",
+        "gemeente": "Menterwolde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90334915969333,
+          53.1366162673041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 40,
+        "postcode": "9654PL",
+        "woonplaats": "Annerveenschekanaal",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79129874424427,
+          53.0850569213108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9655PD",
+        "woonplaats": "Oud Annerveen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76100892680796,
+          53.0902063306012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 76,
+        "postcode": "9656PD",
+        "woonplaats": "Spijkerboor",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76376627791661,
+          53.0763356465498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 49,
+        "postcode": "9657PC",
+        "woonplaats": "Nieuw Annerveen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76866087458984,
+          53.075856864994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 59,
+        "postcode": "9658PA",
+        "woonplaats": "Eexterveen",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79098863200789,
+          53.0588539937934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 52,
+        "postcode": "9659PA",
+        "woonplaats": "Eexterveenschekanaal",
+        "gemeente": "Aa en Hunze",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81347250082859,
+          53.0698491180078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 9,
+        "postcode": "9663AJ",
+        "woonplaats": "Nieuwe Pekela",
+        "gemeente": "Pekela",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97709593163604,
+          53.0855376965639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9665AA",
+        "woonplaats": "Oude Pekela",
+        "gemeente": "Pekela",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.02540801477492,
+          53.1110310541688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9671AA",
+        "woonplaats": "Winschoten",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03681670948266,
+          53.1404072954843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 77,
+        "postcode": "9677PA",
+        "woonplaats": "Heiligerlee",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00205843366046,
+          53.1562311369835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 14,
+        "postcode": "9678PA",
+        "woonplaats": "Westerlee",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.00986550006175,
+          53.1479112639581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 6,
+        "postcode": "9679AA",
+        "woonplaats": "Scheemda",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.97157181381516,
+          53.1756367041338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9681AA",
+        "woonplaats": "Midwolda",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.98422965720936,
+          53.1888959642124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 91,
+        "postcode": "9682NA",
+        "woonplaats": "Oostwold",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04014733437916,
+          53.200271094917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 93,
+        "postcode": "9684AA",
+        "woonplaats": "Finsterwolde",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.08171009189359,
+          53.1983340276042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 70,
+        "postcode": "9685AA",
+        "woonplaats": "Blauwestad",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03469536629822,
+          53.1721311950309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 24,
+        "postcode": "9686MA",
+        "woonplaats": "Beerta",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.09487878760198,
+          53.1721286651499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 1,
+        "postcode": "9687PC",
+        "woonplaats": "Nieuw Beerta",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1814729395804,
+          53.1939118128885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 41,
+        "postcode": "9688RA",
+        "woonplaats": "Drieborg",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.18060074403282,
+          53.2042389469782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 34,
+        "postcode": "9691PB",
+        "woonplaats": "Oudezijl",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.19763777310159,
+          53.1889197708806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 26,
+        "postcode": "9693AA",
+        "woonplaats": "Bad Nieuweschans",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.20067129616204,
+          53.1852519129313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 34,
+        "postcode": "9695AA",
+        "woonplaats": "Bellingwolde",
+        "gemeente": "Bellingwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.14157811386374,
+          53.0985087441341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 40,
+        "postcode": "9696TA",
+        "woonplaats": "Oudeschans",
+        "gemeente": "Bellingwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.14737289205138,
+          53.1549795904609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 71,
+        "postcode": "9697LA",
+        "woonplaats": "Blijham",
+        "gemeente": "Bellingwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.07542069625792,
+          53.1068336190625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9698AA",
+        "woonplaats": "Wedde",
+        "gemeente": "Bellingwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.07144409820724,
+          53.0680968408884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 0,
+        "postcode": "9699PA",
+        "woonplaats": "Vriescheloo",
+        "gemeente": "Bellingwedde",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.14075140390644,
+          53.0973138148463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 24,
+        "postcode": "9711AA",
+        "woonplaats": "Groningen",
+        "gemeente": "Groningen",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56165916598432,
+          53.2135886380605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 75,
+        "postcode": "9749TJ",
+        "woonplaats": "Matsloot",
+        "gemeente": "Noordenveld",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44930987185383,
+          53.1930741339347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9751AA",
+        "woonplaats": "Haren Gn",
+        "gemeente": "Haren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60040741914881,
+          53.1769124364471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 84,
+        "postcode": "9755PA",
+        "woonplaats": "Onnen",
+        "gemeente": "Haren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63795484988805,
+          53.160203050457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 56,
+        "postcode": "9756AA",
+        "woonplaats": "Glimmen",
+        "gemeente": "Haren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62342493030761,
+          53.14985424075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 0,
+        "postcode": "9761AA",
+        "woonplaats": "Eelde",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56732338965372,
+          53.1418885707382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 97,
+        "postcode": "9765AA",
+        "woonplaats": "Paterswolde",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5655723948134,
+          53.1439996810871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 100,
+        "postcode": "9766PA",
+        "woonplaats": "Eelderwolde",
+        "gemeente": "Tynaarlo",
+        "provincie": "Drenthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53506555522098,
+          53.1789118079083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 97,
+        "postcode": "9771AA",
+        "woonplaats": "Sauwerd",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53350429776744,
+          53.2938613912381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 30,
+        "postcode": "9773TD",
+        "woonplaats": "Wetsinge",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53466802031197,
+          53.3032138038401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 22,
+        "postcode": "9774PA",
+        "woonplaats": "Adorp",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53694205059267,
+          53.2692244347293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 92,
+        "postcode": "9781AA",
+        "woonplaats": "Bedum",
+        "gemeente": "Bedum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59619245539709,
+          53.3001303322785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 25,
+        "postcode": "9784PA",
+        "woonplaats": "Noordwolde",
+        "gemeente": "Bedum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59264684921867,
+          53.2833054809854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 47,
+        "postcode": "9785AA",
+        "woonplaats": "Zuidwolde",
+        "gemeente": "Bedum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59986099698271,
+          53.2663576729041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 47,
+        "postcode": "9791AA",
+        "woonplaats": "Ten Boer",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.69588617905721,
+          53.2717225915299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9792PA",
+        "woonplaats": "Ten Post",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72998412396173,
+          53.2965698295924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 69,
+        "postcode": "9793PA",
+        "woonplaats": "Winneweer",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73788554190977,
+          53.3060596582219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 36,
+        "postcode": "9794PA",
+        "woonplaats": "Lellens",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71159410334135,
+          53.300297684353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 27,
+        "postcode": "9795PA",
+        "woonplaats": "Woltersum",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73308873766388,
+          53.2716767902435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 4,
+        "postcode": "9796PA",
+        "woonplaats": "Sint Annen",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.66774270889497,
+          53.2975374385081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 39,
+        "postcode": "9797PA",
+        "woonplaats": "Thesinge",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65323387615751,
+          53.2648956193173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 14,
+        "postcode": "9798PA",
+        "woonplaats": "Garmerwolde",
+        "gemeente": "Ten Boer",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.65486599708084,
+          53.2437654781171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 13,
+        "postcode": "9801AA",
+        "woonplaats": "Zuidhorn",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.40764951014621,
+          53.2460224679142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 96,
+        "postcode": "9804PA",
+        "woonplaats": "Noordhorn",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.41054424262857,
+          53.2575449400574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 21,
+        "postcode": "9805TA",
+        "woonplaats": "Briltil",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.40263252361993,
+          53.2263404826491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 94,
+        "postcode": "9811PA",
+        "woonplaats": "Enumatil",
+        "gemeente": "Leek",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.40912988828314,
+          53.2159031390278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 83,
+        "postcode": "9821PA",
+        "woonplaats": "Oldekerk",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.34310862856549,
+          53.2208805978393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 27,
+        "postcode": "9822AA",
+        "woonplaats": "Niekerk",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.35427415676646,
+          53.2253920122921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 30,
+        "postcode": "9824PA",
+        "woonplaats": "Noordwijk",
+        "gemeente": "Marum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26100723108373,
+          53.1649122230173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 47,
+        "postcode": "9825TA",
+        "woonplaats": "Lucaswolde",
+        "gemeente": "Marum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.27353372141647,
+          53.1793239175121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 19,
+        "postcode": "9827PA",
+        "woonplaats": "Lettelbert",
+        "gemeente": "Leek",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.40304267983875,
+          53.1883613173355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 2,
+        "postcode": "9831NA",
+        "woonplaats": "Aduard",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.45869062726604,
+          53.254474023175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 65,
+        "postcode": "9832PA",
+        "woonplaats": "Den Horn",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44099652128081,
+          53.2269353080334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 15,
+        "postcode": "9833PA",
+        "woonplaats": "Den Ham",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.43581871955664,
+          53.269035724839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 4,
+        "postcode": "9841PA",
+        "woonplaats": "Niezijl",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.34688755483002,
+          53.2669936811453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 54,
+        "postcode": "9843AA",
+        "woonplaats": "Grijpskerk",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.31664955848684,
+          53.2639067312275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 8,
+        "postcode": "9844PB",
+        "woonplaats": "Pieterzijl",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26924095300086,
+          53.2810040607739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 13,
+        "postcode": "9845AA",
+        "woonplaats": "Visvliet",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26025857225051,
+          53.2693800216596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 44,
+        "postcode": "9851AA",
+        "woonplaats": "Burum",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.22899588325344,
+          53.2726707185597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 77,
+        "postcode": "9852TA",
+        "woonplaats": "Warfstermolen",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.22270679883024,
+          53.2990950391174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 94,
+        "postcode": "9853PA",
+        "woonplaats": "Munnekezijl",
+        "gemeente": "Kollumerland en Nieuwkruisland",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26966079874919,
+          53.3031155640909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 64,
+        "postcode": "9861AA",
+        "woonplaats": "Grootegast",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29481473053246,
+          53.2183531115494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 49,
+        "postcode": "9862PA",
+        "woonplaats": "Sebaldeburen",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29506782127034,
+          53.2189981919064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 48,
+        "postcode": "9863PA",
+        "woonplaats": "Doezum",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23882426663373,
+          53.1895949341254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 57,
+        "postcode": "9864PA",
+        "woonplaats": "Kornhorn",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.23243576347597,
+          53.1796386275358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 97,
+        "postcode": "9865AA",
+        "woonplaats": "Opende",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1846689335836,
+          53.1768566447732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 82,
+        "postcode": "9866AA",
+        "woonplaats": "Lutjegast",
+        "gemeente": "Grootegast",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.26230839900709,
+          53.2359285486117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 18,
+        "postcode": "9871PA",
+        "woonplaats": "Stroobos",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2180232833128,
+          53.2390848789801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 33,
+        "postcode": "9873PA",
+        "woonplaats": "Gerkesklooster",
+        "gemeente": "Achtkarspelen",
+        "provincie": "Friesland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.20407419943438,
+          53.2383500559635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 49,
+        "postcode": "9881PA",
+        "woonplaats": "Kommerzijl",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.32357814868564,
+          53.287602646652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 48,
+        "postcode": "9883PA",
+        "woonplaats": "Oldehove",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39208451060124,
+          53.3046255849403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 25,
+        "postcode": "9884PA",
+        "woonplaats": "Niehove",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36808170735847,
+          53.2907609984562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 7,
+        "postcode": "9885PA",
+        "woonplaats": "Lauwerzijl",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29717166725171,
+          53.3075294245873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 73,
+        "postcode": "9886PA",
+        "woonplaats": "Saaksum",
+        "gemeente": "Zuidhorn",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.41894559999617,
+          53.3124942650591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 78,
+        "postcode": "9891AA",
+        "woonplaats": "Ezinge",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44148656213713,
+          53.308380763542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9892PA",
+        "woonplaats": "Feerwerd",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46391420236725,
+          53.3047043309084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9893PA",
+        "woonplaats": "Garnwerd",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.48847326126172,
+          53.3047513412207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 20,
+        "postcode": "9901AA",
+        "woonplaats": "Appingedam",
+        "gemeente": "Appingedam",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85397989775557,
+          53.3196914413237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9904PA",
+        "woonplaats": "Krewerd",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84913663001539,
+          53.3541316570842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 100,
+        "postcode": "9905PA",
+        "woonplaats": "Holwierde",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87032845122472,
+          53.3553998700545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 12,
+        "postcode": "9906PA",
+        "woonplaats": "Bierum",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.85614327709266,
+          53.3820748843398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 57,
+        "postcode": "9907PA",
+        "woonplaats": "Losdorp",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83349177314314,
+          53.3762116400901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 4,
+        "postcode": "9908PA",
+        "woonplaats": "Godlinze",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8176595713114,
+          53.37189878549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9909AA",
+        "woonplaats": "Spijk Gn",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.83705490438935,
+          53.3903661227634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9911PA",
+        "woonplaats": "Oosterwijtwerd",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.81002601746881,
+          53.3368975451787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 35,
+        "postcode": "9912PA",
+        "woonplaats": "Leermens",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79570662563652,
+          53.347112933401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9912TG",
+        "woonplaats": "Zeerijp",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78700542051765,
+          53.3543137495119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 82,
+        "postcode": "9913PA",
+        "woonplaats": "Eenum",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77521712507602,
+          53.3385445749242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 96,
+        "postcode": "9913TA",
+        "woonplaats": "Wirdum Gn",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78520229134611,
+          53.3316261890069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9915PA",
+        "woonplaats": "'t Zandt",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77645941314987,
+          53.3612296831271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 67,
+        "postcode": "9918PA",
+        "woonplaats": "Garrelsweer",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.76956264427353,
+          53.3134658114405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 63,
+        "postcode": "9919AB",
+        "woonplaats": "Loppersum",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74670380433456,
+          53.3337481730304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 98,
+        "postcode": "9921PA",
+        "woonplaats": "Stedum",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.69391872981486,
+          53.3222053021967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 19,
+        "postcode": "9922PA",
+        "woonplaats": "Westeremden",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.72276785447269,
+          53.339848562118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 6,
+        "postcode": "9923PA",
+        "woonplaats": "Garsthuizen",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.71272385106948,
+          53.3686526644958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 30,
+        "postcode": "9924PA",
+        "woonplaats": "Startenhuizen",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70983342220953,
+          53.3699335556752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 62,
+        "postcode": "9931AA",
+        "woonplaats": "Delfzijl",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90398508089199,
+          53.3348142251169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 16,
+        "postcode": "9936AM",
+        "woonplaats": "Farmsum",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92592675107034,
+          53.3267609460084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 20,
+        "postcode": "9937PA",
+        "woonplaats": "Meedhuizen",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9107429603718,
+          53.2915657526946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 28,
+        "postcode": "9939PA",
+        "woonplaats": "Tjuchem",
+        "gemeente": "Slochteren",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84900414967709,
+          53.2774308091251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 86,
+        "postcode": "9942PA",
+        "woonplaats": "'t Waar",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.94097977622414,
+          53.2207750323814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9943PA",
+        "woonplaats": "Nieuw Scheemda",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.94169361948516,
+          53.2081479929338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 51,
+        "postcode": "9944AA",
+        "woonplaats": "Nieuwolda",
+        "gemeente": "Oldambt",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96864940879793,
+          53.2432226253054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 94,
+        "postcode": "9945NA",
+        "woonplaats": "Wagenborgen",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.92600403824806,
+          53.2585693318423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 10,
+        "postcode": "9946PA",
+        "woonplaats": "Woldendorp",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.02828142842254,
+          53.2729063023745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 88,
+        "postcode": "9947PA",
+        "woonplaats": "Termunten",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04204453617607,
+          53.2967577206084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9948PA",
+        "woonplaats": "Termunterzijl",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.03852466139865,
+          53.2996370500447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 99,
+        "postcode": "9949PA",
+        "woonplaats": "Borgsweer",
+        "gemeente": "Delfzijl",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.01623255831082,
+          53.3004356534541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 94,
+        "postcode": "9951AA",
+        "woonplaats": "Winsum",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51480196547828,
+          53.3323009072221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9953PA",
+        "woonplaats": "Baflo",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.51096451761751,
+          53.3618555944066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 48,
+        "postcode": "9954TP",
+        "woonplaats": "Tinallinge",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.55310614315462,
+          53.3587317396812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 9,
+        "postcode": "9955VA",
+        "woonplaats": "Rasquert",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.53180567198577,
+          53.3654690905221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 6,
+        "postcode": "9956PA",
+        "woonplaats": "Den Andel",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.501651790028,
+          53.3937879636158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 74,
+        "postcode": "9957NB",
+        "woonplaats": "Saaxumhuizen",
+        "gemeente": "Winsum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.49001804016962,
+          53.3827168464227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 20,
+        "postcode": "9959PA",
+        "woonplaats": "Onderdendam",
+        "gemeente": "Bedum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.57397367356429,
+          53.3347700230197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 5,
+        "postcode": "9961PA",
+        "woonplaats": "Mensingeweer",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.47876184972248,
+          53.3471996907788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 59,
+        "postcode": "9962TA",
+        "woonplaats": "Schouwerzijl",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44988624159778,
+          53.3332516958515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9963PA",
+        "woonplaats": "Warfhuizen",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.42151887232853,
+          53.3459444702367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 68,
+        "postcode": "9964AA",
+        "woonplaats": "Wehe-den Hoorn",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.41680842342285,
+          53.3612068019701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 83,
+        "postcode": "9965NA",
+        "woonplaats": "Leens",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.37501954573187,
+          53.3610646340715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 29,
+        "postcode": "9966VA",
+        "woonplaats": "Zuurdijk",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.39417262420924,
+          53.3336503902243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 41,
+        "postcode": "9967PA",
+        "woonplaats": "Eenrum",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.46067487923247,
+          53.3607693771684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 5,
+        "postcode": "9968AA",
+        "woonplaats": "Pieterburen",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.44475680183119,
+          53.401292247768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 11,
+        "postcode": "9969PA",
+        "woonplaats": "Westernieland",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.47654972605677,
+          53.4004246218978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 51,
+        "postcode": "9971AA",
+        "woonplaats": "Ulrum",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33346839514705,
+          53.3590518729252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9973PD",
+        "woonplaats": "Houwerzijl",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.33851074000925,
+          53.3357391303246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 78,
+        "postcode": "9974NA",
+        "woonplaats": "Zoutkamp",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.30729531440753,
+          53.3390192414242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 86,
+        "postcode": "9975VN",
+        "woonplaats": "Vierhuizen",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.29034937690397,
+          53.3599764398847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 67,
+        "postcode": "9976VA",
+        "woonplaats": "Lauwersoog",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.21946280900128,
+          53.4024589375629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 7,
+        "postcode": "9977PA",
+        "woonplaats": "Kloosterburen",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3742479036546,
+          53.3878286786055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 9,
+        "postcode": "9978PA",
+        "woonplaats": "Hornhuizen",
+        "gemeente": "De Marne",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.36543859968043,
+          53.3877658325472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 21,
+        "postcode": "9979XA",
+        "woonplaats": "Eemshaven",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.87124881776798,
+          53.4112359522017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 80,
+        "postcode": "9981AA",
+        "woonplaats": "Uithuizen",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67289503165411,
+          53.4074103895804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 66,
+        "postcode": "9982AA",
+        "woonplaats": "Uithuizermeeden",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.70739907821624,
+          53.41007417328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 76,
+        "postcode": "9983NN",
+        "woonplaats": "Roodeschool",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.79478291200121,
+          53.4147136728285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9984NR",
+        "woonplaats": "Oudeschip",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77478035819304,
+          53.4246915426233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 32,
+        "postcode": "9985NE",
+        "woonplaats": "Oosternieland",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.75867029328729,
+          53.4045046572033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 75,
+        "postcode": "9986XK",
+        "woonplaats": "Oldenzijl",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.73018276848094,
+          53.3950822415851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 44,
+        "postcode": "9987NG",
+        "woonplaats": "Zijldijk",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.77177816901277,
+          53.4010926129483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 8,
+        "postcode": "9988NP",
+        "woonplaats": "Usquert",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.60919286637519,
+          53.3999596908629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 76,
+        "postcode": "9989AA",
+        "woonplaats": "Warffum",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.56193795168785,
+          53.3932754525824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 96,
+        "postcode": "9991AA",
+        "woonplaats": "Middelstum",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63671203771026,
+          53.3333691071163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 67,
+        "postcode": "9992TR",
+        "woonplaats": "Huizinge",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67612478195393,
+          53.3451023385644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 23,
+        "postcode": "9993TH",
+        "woonplaats": "Westerwijtwerd",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6463890893877,
+          53.3254681375557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9994NC",
+        "woonplaats": "Toornwerd",
+        "gemeente": "Loppersum",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.64708593830092,
+          53.3585731818215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 72,
+        "postcode": "9995NC",
+        "woonplaats": "Kantens",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.62716469596197,
+          53.3610193141327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 37,
+        "postcode": "9996VC",
+        "woonplaats": "Eppenhuizen",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6954866128708,
+          53.3813680114964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 38,
+        "postcode": "9997NE",
+        "woonplaats": "Zandeweer",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.67938204086736,
+          53.3858834931321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 96,
+        "postcode": "9998NJ",
+        "woonplaats": "Rottum",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.63857582047643,
+          53.3908238109724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aantal bezoekers": 85,
+        "postcode": "9999XB",
+        "woonplaats": "Stitswerd",
+        "gemeente": "Eemsmond",
+        "provincie": "Groningen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.59477742203401,
+          53.3690318617489
+        ]
+      }
+    }
+  ]
+}
